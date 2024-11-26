@@ -2,5 +2,6 @@
 void main()
 {
   printf("hello");
-  print("ayuu");
+  printf("ayuu");
+  printf("bow");
 }
